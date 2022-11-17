@@ -9,4 +9,4 @@ A SwiftUI game, that allows user to select the three options from by clicking on
 
 ### User Interface 
  
-!["App Screenshot"](/Users/faizaankhan/Desktop/Simulator Screen Shot - iPhone 14 Pro - 2022-11-17 at 14.27.11.png)
+ ![App Main UI Screen](https://user-images.githubusercontent.com/53966999/202570652-92dbca1e-f8ff-48eb-8110-45e567fff9c3.png)
