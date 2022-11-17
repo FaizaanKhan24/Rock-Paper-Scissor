@@ -8,6 +8,5 @@ A SwiftUI game, that allows user to select the three options from by clicking on
 - The user gets 5 turns to get the best score
 
 ### User Interface 
-
-![Rock Paper Scissor iOS UI](/Users/faizaankhan/Desktop/Simulator Screen Shot - iPhone 14 Pro - 2022-11-17 at 14.27.11.png)
  
+<img src="/Users/faizaankhan/Desktop/Simulator Screen Shot - iPhone 14 Pro - 2022-11-17 at 14.27.11.png" alt="Rock Paper Scissor iOS UI" />
